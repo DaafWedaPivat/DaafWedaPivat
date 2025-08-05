@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm just a curious student from Germany trying out some things...
 
 <!--
 **DaafWedaPivat/DaafWedaPivat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
